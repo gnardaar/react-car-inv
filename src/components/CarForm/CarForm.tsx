@@ -65,8 +65,8 @@ export const CarForm = (props:CarFormProps) => {
                     <Input {...register('condition')} name="condition" placeholder="car's condition"/>
                 </div>
                 <div>
-                    <label htmlFor="Year">Year</label>
-                    <Input {...register('Year')} name="Year" placeholder='Year'/>
+                    <label htmlFor="year">Year</label>
+                    <Input {...register('year')} name="year" placeholder='year'/>
                 </div>
                 <Button type='submit'>Submit</Button>
             </form>
