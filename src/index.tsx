@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import { FirebaseAppProvider } from 'reactfire';
+import { FirebaseAppProvider,AuthCheck } from 'reactfire';
 import { Home, CarInventory, Car, About,SignIn  } from './components' 
 import './styles.css'
 import { firebaseConfig } from './firebaseConfig'

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,iBACI,SAAU,CACV,QAAS,CACT,kBAAmB,CAEnB,iDACJ","file":"main.2c732e38.chunk.css","sourcesContent":["*,*:before,*::after{\r\n    padding: 0;\r\n    margin: 0;\r\n    box-sizing: inherit;\r\n    /* border: 1px solid red; */\r\n    font-family: Georgia, 'Times New Roman', Times, serif;\r\n}"]}

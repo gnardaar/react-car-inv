@@ -5,13 +5,12 @@
 
 // Your web app's Firebase configuration
 export const firebaseConfig = {
-    apiKey: "AIzaSyBFIbEmqUKOUEzcwQeTkoo-DAB8ITuzyfA",
-    authDomain: "the-car-app-23def.firebaseapp.com",
-    projectId: "the-car-app-23def",
-    storageBucket: "the-car-app-23def.appspot.com",
-    messagingSenderId: "78483181577",
-    appId: "1:78483181577:web:5417a08057dac0f48fa8d8"
-  }; 
-  
+  apiKey: "AIzaSyCkaWLJ5MsRWzjos12Pyu32aWJWJsf9L4Q",
+  authDomain: "carap-b5d9b.firebaseapp.com",
+  projectId: "carap-b5d9b",
+  storageBucket: "carap-b5d9b.appspot.com",
+  messagingSenderId: "441564719128",
+  appId: "1:441564719128:web:e815f6188b228e1efd7b6d"
+};
   // Initialize Firebase
   // const app = initializeApp(firebaseConfig);
